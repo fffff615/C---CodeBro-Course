@@ -13,7 +13,7 @@ int main() {
     int year;
     std::cout << "Enter the current year: ";
     std::cin >> year;
-    int birthYear = year - age;
+    int birthYear = year - age
 
     std::cout << "Hello, " << name << "!" << std::endl;
     std::cout << "You are " << age << " years old." << std::endl;
