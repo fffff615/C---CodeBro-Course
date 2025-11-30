@@ -46,5 +46,7 @@ int main(){
         default:
             std::cout << "Invalid operation!" << std::endl;
     }
+
+    return 0;
     
 }
